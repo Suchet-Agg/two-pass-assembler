@@ -6,10 +6,9 @@ Simple Implementation of an Assembler for an Accumulator Architecture Machine th
 ## Getting Started
 
 Run as follows:
-'''
+```
 python3 assembler.py input.txt
-
-'''
+```
 
 ## Built With
 
